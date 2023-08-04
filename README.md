@@ -102,6 +102,27 @@ Video at [YouTube](https://www.youtube.com/watch?v=0wQGtZG9jw8)
 
 
 
+### Courage
+
+Video at [YouTube](https://youtu.be/NmeyrSEnQAE)
+
+| By                    | Quotation                                                                                                                            |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| E.E. Cummings         | It takes courage to grow up and turn out to be who you really are.                                                                   |
+| Winston Churchill     | Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.                                |
+| Ernest Hemingway      | Courage is grace under pressure.                                                                                                     |
+| John Wayne            | Courage is being scared to death but saddling up anyway.                                                                             |
+| Mark Twain            | It is curious that physical courage should be so common in the world and moral courage so rare.                                      |
+| Bruce Lee             | Mistakes are always forgivable, if one has the courage to admit them.                                                                |
+| John Wooden           | Success is never final. Failure is never fatal. It’s courage that counts.                                                            |
+| Confucius             | Faced with what is right, to leave it undone shows a lack of courage.                                                                |
+
+
+
+
+
+
+
 
 
 
