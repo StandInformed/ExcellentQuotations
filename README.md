@@ -85,6 +85,23 @@ Video at [YouTube](https://www.youtube.com/watch?v=CXZuU6pT8ps)
 | Denis Waitley       | Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.                                           |
 
 
+### Children
+
+Video at [YouTube](https://www.youtube.com/watch?v=0wQGtZG9jw8)
+
+| By                    | Quotation                                                                                                                            |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Paula Poundstone      | Adults are always asking little kids what they want to be when they grow up ’cause they’re looking for ideas.                        |
+| James Baldwin         | Children have never been very good at listening to their elders, but they have never failed to imitate them.                         |
+| Robert A. Heinlein    | Don’t handicap your children by making their lives easy.                                                                             |
+| Herbert Hoover        | Children are our most valuable resource.                                                                                             |
+| Martin Mull           | Never underestimate a child’s ability to get into more trouble.                                                                      |
+| Phyllis Diller        | Always be nice to your children because they are the ones who will choose your rest home.                                            |
+| Frank A. Clark        | There’s nothing that can help you understand your beliefs more than trying to explain them to an inquisitive child.                  |
+| Oliver Wendell Holmes |	Pretty much all the honest truth telling in the world is done by children.                                                           |
+
+
+
 
 
 
