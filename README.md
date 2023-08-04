@@ -74,3 +74,35 @@ Video at [YouTube](https://www.youtube.com/watch?v=q5DjdpfPndQ)
 
 
 
+
+### Age
+
+Video at [YouTube](https://www.youtube.com/watch?v=-1qXu7f752I)
+
+| By                  | Quotation                                                                                                                            |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Lucille Ball        | The secret to staying young is to live honestly, eat slowly, and lie about your age.                                                 |
+| George Bernard Shaw | We don’t stop playing because we grow old; we grow old because we stop playing.                                                      |
+| Mark Twain          | Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.                                                           |
+| Henry David Thoreau | No one is so old as those who have outlived enthusiasm.                                                                              |
+| Victor Hugo         | Forty is the old age of youth; fifty is the youth of old age.                                                                        |
+| Oscar Wilde         | The old believe everything: the middle-aged suspect everything: the young know everything.                                           |
+| Benjamin Franklin   | Life’s tragedy is that we get old too soon and wise too late.                                                                        |
+| Ogden Nash          | Middle age is when you’re sitting at home on a Saturday night and the telephone rings and you hope it isn’t for you.                 |
+| Bob Hope            | You know you are getting old when the candles cost more than the cake.                                                               |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
