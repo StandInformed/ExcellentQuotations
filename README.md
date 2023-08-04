@@ -22,3 +22,20 @@ Video at [YouTube](https://www.youtube.com/watch?v=CXZuU6pT8ps)
 
 
 
+### Business
+
+Video at [YouTube](https://www.youtube.com/watch?v=Ga5HGWPvhr0)
+
+| By                  | Quotation                                                                                                                            |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Henry Ford          | A business absolutely devoted to service will have only one worry about profits. They will be embarrassingly large.                  |
+| Robert Frost        | By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a day.                               |
+| Sigourney Weaver    | Never burn bridges. Today’s junior jerk, tomorrow’s senior partner.                                                                  |
+| Aristotle Onassis   | The secret of business is to know something that nobody else knows.                                                                  |
+| Mahatma Gandhi      | It is difficult, but not impossible, to conduct strictly honest business.                                                            |
+| Henry Kravis        | A real entrepreneur is somebody who has no safety net underneath them.                                                               |
+| David Ogilvy        | Good products can be sold by honest advertising. If you don’t think the product is good, you have no business to be advertising it.  |
+| Benjamin Franklin   | Drive your business. Let not your business drive you.                                                                                |
+
+
+
