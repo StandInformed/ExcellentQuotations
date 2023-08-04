@@ -6,7 +6,7 @@ Here we have a collection of excellent quotations on various topics, you can als
 
 ### Age
 
-Video at [YouTube](https://www.youtube.com/watch?v=-1qXu7f752I)
+Video is available at [YouTube](https://www.youtube.com/watch?v=-1qXu7f752I)
 
 | By                  | Quotation                                                                                                                            |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ Video at [YouTube](https://www.youtube.com/watch?v=-1qXu7f752I)
 
 ### Anger
 
-Video at [YouTube](https://www.youtube.com/watch?v=q5DjdpfPndQ)
+Video is available at [YouTube](https://www.youtube.com/watch?v=q5DjdpfPndQ)
 
 | By                  | Quotation                                                                                                                            |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ Video at [YouTube](https://www.youtube.com/watch?v=q5DjdpfPndQ)
 
 ### Business
 
-Video at [YouTube](https://www.youtube.com/watch?v=Ga5HGWPvhr0)
+Video is available at [YouTube](https://www.youtube.com/watch?v=Ga5HGWPvhr0)
 
 | By                  | Quotation                                                                                                                            |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
@@ -55,7 +55,7 @@ Video at [YouTube](https://www.youtube.com/watch?v=Ga5HGWPvhr0)
 
 ### Beauty
 
-Video at [YouTube](https://www.youtube.com/watch?v=wGu3WOf6g8k)
+Video is available at [YouTube](https://www.youtube.com/watch?v=wGu3WOf6g8k)
 
 | By                  | Quotation                                                                                                                            |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
@@ -71,7 +71,7 @@ Video at [YouTube](https://www.youtube.com/watch?v=wGu3WOf6g8k)
 
 ### Change
 
-Video at [YouTube](https://www.youtube.com/watch?v=CXZuU6pT8ps)
+Video is available at [YouTube](https://www.youtube.com/watch?v=CXZuU6pT8ps)
 
 | By                  | Quotation                                                                                                                            |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
@@ -87,7 +87,7 @@ Video at [YouTube](https://www.youtube.com/watch?v=CXZuU6pT8ps)
 
 ### Children
 
-Video at [YouTube](https://www.youtube.com/watch?v=0wQGtZG9jw8)
+Video is available at [YouTube](https://www.youtube.com/watch?v=0wQGtZG9jw8)
 
 | By                    | Quotation                                                                                                                            |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
@@ -104,7 +104,7 @@ Video at [YouTube](https://www.youtube.com/watch?v=0wQGtZG9jw8)
 
 ### Courage
 
-Video at [YouTube](https://youtu.be/NmeyrSEnQAE)
+Video is available at [YouTube](https://youtu.be/NmeyrSEnQAE)
 
 | By                    | Quotation                                                                                                                            |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
@@ -120,7 +120,7 @@ Video at [YouTube](https://youtu.be/NmeyrSEnQAE)
 
 ### Death
 
-Video at [YouTube](https://youtu.be/21Ull9P2Iow)
+Video is available at [YouTube](https://youtu.be/21Ull9P2Iow)
 
 | By                    | Quotation                                                                                                                            |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
