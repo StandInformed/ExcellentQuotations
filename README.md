@@ -118,6 +118,26 @@ Video at [YouTube](https://youtu.be/NmeyrSEnQAE)
 | Confucius             | Faced with what is right, to leave it undone shows a lack of courage.                                                                |
 
 
+### Death
+
+Video at [YouTube](https://youtu.be/21Ull9P2Iow)
+
+| By                    | Quotation                                                                                                                            |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Benjamin Franklin     | In this world nothing can be said to be certain, except death and taxes.                                                             |
+| Buddha                | Even death is not to be feared by one who has lived wisely.                                                                          |
+| Mark Twain            | The reports of my death have been greatly exaggerated.                                                                               |
+| Will Rogers           | The only difference between death and taxes is that death doesn’t get worse every time Congress meets.                               |
+| Leonardo da Vinci     | As a well-spent day brings happy sleep, so a life well spent brings happy death.                                                     |
+| Mark Twain            | The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.                               |
+| Plato                 | No one knows whether death, which people fear to be the greatest evil, may not be the greatest good.                                 |
+| Albert Einstein       | Our death is not an end if we can live on in our children and the younger generation. For they are us, our bodies are only wilted leaves on the tree of life.  |
+
+
+
+
+
+
 
 
 
