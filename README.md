@@ -39,3 +39,20 @@ Video at [YouTube](https://www.youtube.com/watch?v=Ga5HGWPvhr0)
 
 
 
+### Beauty
+
+Video at [YouTube](https://www.youtube.com/watch?v=wGu3WOf6g8k)
+
+| By                  | Quotation                                                                                                                            |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Ralph Waldo Emerson | Beauty, without expression, tires.                                                                                                   |
+| Leo Tolstoy         | It is amazing how complete is the delusion that beauty is goodness.                                                                  |
+| Margaret Hungerford | Beauty is in the eye of the beholder.                                                                                                |
+| Jean Kerr           | I’m tired of all the nonsense about beauty being only skin-deep. That’s deep enough. What do you want – an adorable pancreas?        |
+| Confucius           | Everything has its beauty, but not everyone sees it.                                                                                 |
+| Martin Buxbaum      | Some people, no matter how old they get, never lose their beauty – they merely move it from their faces into their hearts.           |
+| Leo Tolstoy         | It is not beauty that endears; it’s love that makes us see beauty.                                                                   |
+| Dorothy Parker      | Beauty is only skin deep, but ugly goes clean to the bone.                                                                           |
+
+
+
