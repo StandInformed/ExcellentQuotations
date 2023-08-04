@@ -1,2 +1,7 @@
 # Quotations
-A collection of excellent quotations
+
+Here we have a collection of excellent quotations on various topics:
+
+
+
+
