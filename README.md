@@ -56,3 +56,21 @@ Video at [YouTube](https://www.youtube.com/watch?v=wGu3WOf6g8k)
 
 
 
+
+### Anger
+
+Video at [YouTube](https://www.youtube.com/watch?v=q5DjdpfPndQ)
+
+| By                  | Quotation                                                                                                                            |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Ralph Waldo Emerson | For every minute you are angry you lose sixty seconds of happiness.                                                                  |
+| Lee Iacocca         | In times of great stress or adversity, it’s always best to keep busy, to plow your anger and your energy into something positive.    |
+| Maya Angelou        | Bitterness is like cancer. It eats upon the host. But anger is like fire. It burns it all clean.                                     |
+| Mohandas Gandhi     | Man should forget his anger before he lies down to sleep.                                                                            |
+| Mark Twain          | When angry, count to four; when very angry, swear.                                                                                   |
+| William Congreve    | Heaven has no rage like love to hatred turned, Nor hell a fury like a woman scorned.                                                 |
+| Buddha              | You will not be punished for your anger; you will be punished by your anger.                                                         |
+| Aristotle           | Anyone can become angry – that is easy, but to be angry with the right person at the right time and for the right purpose and in the right way – that is not within everyone’s power and that is not easy. |
+
+
+
