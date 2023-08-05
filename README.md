@@ -1,4 +1,4 @@
-# Quotations
+![image](https://github.com/StandInformed/Quotations/assets/29387130/09999e3c-1916-4e92-874f-b6fa41f761b6)# Quotations
 
 Here we have a collection of excellent quotations on various topics, you can also listen to their *recorded versions* on ***YouTube*** at given links.
 
@@ -132,6 +132,27 @@ Video is available at [YouTube](https://youtu.be/21Ull9P2Iow)
 | Mark Twain            | The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.                               |
 | Plato                 | No one knows whether death, which people fear to be the greatest evil, may not be the greatest good.                                 |
 | Albert Einstein       | Our death is not an end if we can live on in our children and the younger generation. For they are us, our bodies are only wilted leaves on the tree of life.  |
+
+
+### Education
+
+Video is available at [YouTube](https://youtu.be/2E6Jw7JE26Q)
+
+| By                    | Quotation                                                                                                                            |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Aristotle             | It is the mark of an educated mind to be able to entertain a thought without accepting it.                                           |
+| Pete Seeger           | Education is when you read the fine print. Experience is what you get if you don’t.                                                  |
+| Socrates              | The only true wisdom is knowing that you know nothing.                                                                               |
+| Marry Pettibone Poole | To repeat what others have said requires education. To challenge it requires brains.                                                 |
+| Alec Bourne           | It is possible to store the mind with a million facts and still be entirely uneducated.                                              |
+| Bill Gates            | Life is not divided into semesters. You don’t get summers off and very few employers are interested in helping you find yourself.    |
+| Albert Einstein       | Intellectual growth should commence at birth and cease only at death.                                                                |
+| Wu Ting-Fang          | Education is like a double-edged sword. It may be turned to dangerous uses if it is not properly handled.                            |
+
+
+
+
+
 
 
 
