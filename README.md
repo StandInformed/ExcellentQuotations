@@ -1,4 +1,4 @@
-![image](https://github.com/StandInformed/Quotations/assets/29387130/09999e3c-1916-4e92-874f-b6fa41f761b6)# Quotations
+![image](https://github.com/StandInformed/Quotations/assets/29387130/cbf5bb23-bcbb-42ca-93fa-75981070071f)![image](https://github.com/StandInformed/Quotations/assets/29387130/d287c4fc-e35a-4cb1-8874-cdee7a3b496b)![image](https://github.com/StandInformed/Quotations/assets/29387130/09999e3c-1916-4e92-874f-b6fa41f761b6)# Quotations
 
 Here we have a collection of excellent quotations on various topics, you can also listen to their *recorded versions* on ***YouTube*** at given links.
 
@@ -164,6 +164,25 @@ Video is available at [YouTube](https://youtu.be/LQ_CWW5EY6s)
 | Albert Einstein       | Before God we are all equally wise – and equally foolish.                                                                            |
 | Malcolm X             | Nobody can give you freedom. Nobody can give you equality or justice or anything. If you’re a man, you take it.                      |
 | Philip James Bailey   | The sole equality on earth is death.                                                                                                 |
+
+
+### Family
+
+Video is available at [YouTube](https://youtu.be/VUwfTIJUozM)
+
+| By                         | Quotation                                                                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Lee Iacocca                | The only rock I know that stays steady, the only institution I know that works is the family.                                        |
+| George Burns               | Happiness is having a large, loving, caring, close-knit family in another city.                                                      |
+| George Bernard Shaw        | A happy family is but an earlier heaven.                                                                                             |
+| Bill Cosby                 | You know the only people who are always sure about the proper way to raise children ? Those who’ve never had any.                    |
+| Trey Parker and Matt Stone | Family isn’t about whose blood you have. It’s about who you care about.                                                              |
+| Leo Tolstoy                | All happy families resemble one another. Each unhappy family is unhappy in its own way.                                              |
+| Pope John Paul II          | As the family goes, so goes the nation and so goes the whole world in which we live.                                                 |
+| George Bernard Shaw        | If you cannot get rid of the family skeleton, you may as well make it dance.                                                         |
+
+
+
 
 
 
