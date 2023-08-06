@@ -150,6 +150,26 @@ Video is available at [YouTube](https://youtu.be/2E6Jw7JE26Q)
 | Wu Ting-Fang          | Education is like a double-edged sword. It may be turned to dangerous uses if it is not properly handled.                            |
 
 
+### Equality
+
+Video is available at [YouTube](https://youtu.be/LQ_CWW5EY6s)
+
+| By                    | Quotation                                                                                                                            |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Aristotle             | The only stable state is the one in which all men are equal before the law.                                                          |
+| Irving Kristol        | Democracy does not guarantee equality of conditions. It only guarantees equality of opportunity.                                     |
+| Steven Pinker         | As many political writers have pointed out, commitment to political equality is not an empirical claim that people are clones.       |
+| George Orwell         | All animals are equal but some animals are more equal than others.                                                                   |
+| Mohandas Gandhi       | I believe in equality for everyone, except reporters and photographers.                                                              |
+| Albert Einstein       | Before God we are all equally wise – and equally foolish.                                                                            |
+| Malcolm X             | Nobody can give you freedom. Nobody can give you equality or justice or anything. If you’re a man, you take it.                      |
+| Philip James Bailey   | The sole equality on earth is death.                                                                                                 |
+
+
+
+
+
+
 
 
 
