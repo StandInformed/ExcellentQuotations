@@ -1,4 +1,4 @@
-![image](https://github.com/StandInformed/Quotations/assets/29387130/cbf5bb23-bcbb-42ca-93fa-75981070071f)![image](https://github.com/StandInformed/Quotations/assets/29387130/d287c4fc-e35a-4cb1-8874-cdee7a3b496b)![image](https://github.com/StandInformed/Quotations/assets/29387130/09999e3c-1916-4e92-874f-b6fa41f761b6)# Quotations
+![image](https://github.com/StandInformed/Quotations/assets/29387130/589f1bf2-646b-4cba-a7b0-2e4fc2d4604e)![image](https://github.com/StandInformed/Quotations/assets/29387130/cbf5bb23-bcbb-42ca-93fa-75981070071f)![image](https://github.com/StandInformed/Quotations/assets/29387130/d287c4fc-e35a-4cb1-8874-cdee7a3b496b)![image](https://github.com/StandInformed/Quotations/assets/29387130/09999e3c-1916-4e92-874f-b6fa41f761b6)# Quotations
 
 Here we have a collection of excellent quotations on various topics, you can also listen to their *recorded versions* on ***YouTube*** at given links.
 
@@ -180,6 +180,28 @@ Video is available at [YouTube](https://youtu.be/VUwfTIJUozM)
 | Leo Tolstoy                | All happy families resemble one another. Each unhappy family is unhappy in its own way.                                              |
 | Pope John Paul II          | As the family goes, so goes the nation and so goes the whole world in which we live.                                                 |
 | George Bernard Shaw        | If you cannot get rid of the family skeleton, you may as well make it dance.                                                         |
+
+
+### Love
+
+Video is available at [YouTube](https://youtu.be/gjPyw2jUpFA)
+
+| By                         | Quotation                                                                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Aristotle                  | Love is composed of a single soul inhabiting two bodies.                                                                             |
+| Robert Heinlein            | Love is that condition in which the happiness of another person is essential to your own.                                            |
+| Jeremy Taylor              | Love is friendship, set on fire.                                                                                                     |
+| Elizabeth Browning         | Love doesn’t make the world go round; love is what makes the ride worthwhile.                                                        |
+| Friedrich Nietzsche        | It is not a lack of love, but a lack of friendship that makes unhappy marriages.                                                     |
+| Jean Anouilh               | Love is, above all else, the gift of oneself.                                                                                        |
+| Mark Twain                 | Love is the irresistible desire to be irresistibly desired.                                                                          |
+| Lord Byron                 | Friendship may, and often does, grow into love, but love never subsides into friendship.                                             |
+| Maya Angelou               | Love is like a virus. It can happen to anybody at any time.                                                                          |
+
+
+
+
+
 
 
 
