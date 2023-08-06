@@ -1,4 +1,4 @@
-![image](https://github.com/StandInformed/Quotations/assets/29387130/589f1bf2-646b-4cba-a7b0-2e4fc2d4604e)![image](https://github.com/StandInformed/Quotations/assets/29387130/cbf5bb23-bcbb-42ca-93fa-75981070071f)![image](https://github.com/StandInformed/Quotations/assets/29387130/d287c4fc-e35a-4cb1-8874-cdee7a3b496b)![image](https://github.com/StandInformed/Quotations/assets/29387130/09999e3c-1916-4e92-874f-b6fa41f761b6)# Quotations
+# Quotations
 
 Here we have a collection of excellent quotations on various topics, you can also listen to their *recorded versions* on ***YouTube*** at given links.
 
