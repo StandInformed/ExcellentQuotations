@@ -1,4 +1,4 @@
-![image](https://github.com/StandInformed/Quotations/assets/29387130/85c28154-0a08-4a7b-aabe-a9d667c8266d)# Quotations
+# Quotations
 
 Here we have a collection of excellent quotations on various topics, you can also listen to their *recorded versions* on ***YouTube*** at given links.
 
