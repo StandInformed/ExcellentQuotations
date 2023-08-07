@@ -1,4 +1,4 @@
-# Quotations
+![image](https://github.com/StandInformed/Quotations/assets/29387130/85c28154-0a08-4a7b-aabe-a9d667c8266d)# Quotations
 
 Here we have a collection of excellent quotations on various topics, you can also listen to their *recorded versions* on ***YouTube*** at given links.
 
@@ -197,6 +197,26 @@ Video is available at [YouTube](https://youtu.be/gjPyw2jUpFA)
 | Mark Twain                 | Love is the irresistible desire to be irresistibly desired.                                                                          |
 | Lord Byron                 | Friendship may, and often does, grow into love, but love never subsides into friendship.                                             |
 | Maya Angelou               | Love is like a virus. It can happen to anybody at any time.                                                                          |
+
+
+### Money
+
+Video is available at [YouTube](https://youtu.be/2B7Uk8LwVQ8)
+
+| By                         | Quotation                                                                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Mark Twain                 | Don’t go around saying the world owes you a living. The world owes you nothing. It was here first.                                   |
+| Warren Buffet              | I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful.           |
+| Robert Frost               | A bank is a place where they lend you an umbrella in fair weather and ask for it back when it begins to rain.                        |
+| Nelson Mandela             | Money won’t create success. The freedom to make it will.                                                                             |
+| Zig Ziglar                 | Money isn’t the most important thing in life, but it’s reasonably close to oxygen on the ‘gotta have it’ scale.                      |
+| Benjamin Franklin          | Time is money.                                                                                                                       |
+| Katherine Hepburn          | If you’re given a choice between money and sex appeal, take the money. As you get older, the money will become your sex appeal.      |
+| Logan Pearsall Smith       | It is the wretchedness of being rich that you have to live with rich people.                                                         |
+| Edith Wharton              | The only way not to think about money is to have a great deal of it.                                                                 |
+
+
+
 
 
 
