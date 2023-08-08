@@ -216,6 +216,22 @@ Video is available at [YouTube](https://youtu.be/2B7Uk8LwVQ8)
 | Edith Wharton              | The only way not to think about money is to have a great deal of it.                                                                 |
 
 
+### Movies
+
+Video is available at [YouTube](https://youtu.be/rRTIBplwaF8)
+
+| By                         | Quotation                                                                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Clint Eastwood             | This film cost $31 million. With that kind of money I could have invaded some country.                                               |
+| Steve Martin               | All of life’s riddles are answered in the movies.                                                                                    |
+| David Mamet                | A good film script should be able to do completely without dialogue.                                                                 |
+| Billy Wilder               | Shoot a few scenes out of focus. I want to win the foreign film award.                                                               |
+| Jodie Foster               | The best reason to make a film is that you feel passionately about it.                                                               |
+| Roger Ebert                | Every great film should seem new every time you see it.                                                                              |
+| Walt Disney                | Movies can and do have tremendous influence in shaping young lives in the realm of entertainment towards the ideals and objectives of normal adulthood.  |
+| Gwyneth Paltrow            | In the theater, you go from point A to point Z, building your performance as the evening progresses. You have to relinquish that control on a film.      |
+
+
 
 
 
