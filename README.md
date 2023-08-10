@@ -232,6 +232,21 @@ Video is available at [YouTube](https://youtu.be/rRTIBplwaF8)
 | Gwyneth Paltrow            | In the theater, you go from point A to point Z, building your performance as the evening progresses. You have to relinquish that control on a film.      |
 
 
+### Music
+
+Video is available at [YouTube](https://youtu.be/gRD1Ze34Acg)
+
+| By                         | Quotation                                                                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Ed Gardner                 | Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.                                                     |
+| Robert Fripp               | Music is the wine that fills the cup of silence.                                                                                     |
+| Plato                      | Music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything.     |
+| Ronald Reagan              | Life is one grand, sweet song so start the music.                                                                                    |
+| Lao Tzu                    | Music in the soul can be heard by the universe.                                                                                      |
+| Elvis Presley              | I don’t know anything about music. In my line you don’t have to.                                                                     |
+| Jimi Hendrix               | Music is a safe kind of high.                                                                                                        |
+| Victor Hugo                | Music expresses that which cannot be said and on which it is impossible to be silent.                                                |
+
 
 
 
