@@ -248,6 +248,23 @@ Video is available at [YouTube](https://youtu.be/gRD1Ze34Acg)
 | Victor Hugo                | Music expresses that which cannot be said and on which it is impossible to be silent.                                                |
 
 
+### War
+
+Video is available at [YouTube](https://youtu.be/HbeXR-NIXQA)
+
+| By                         | Quotation                                                                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Albert Einstein            | I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.                   |
+| George Patton              | May God have mercy upon my enemies, because I won’t.                                                                                 |
+| Jeannette Rankin           | You can no more win a war than you can win an earthquake.                                                                            |
+| Benjamin Franklin          | There never was a good war or a bad peace.                                                                                           |
+| Mahatma Gandhi             | What difference does it make to the dead, the orphans and the homeless whether the mad destruction is brought under the name of totalitarianism or the holy name of liberty and democracy?    |
+| Dwight Eisenhower          | There is no glory in battle worth the blood it costs.                                                                                |
+| Robert E. Lee              | It is well that war is so terrible – otherwise we would grow too fond of it.                                                         |
+| Thomas Mann                | War is a cowardly escape from the problems of peace.                                                                                 |
+
+
+
 
 
 
