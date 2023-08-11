@@ -297,6 +297,20 @@ Video is available at [YouTube](https://youtu.be/9gDJ79S4gKo)
 | Nick Seitz                 | The breakfast of champions is not cereal, it’s the opposition.                                                                       |
 
 
+### Science
+
+Video is available at [YouTube](https://youtu.be/pLOT6IAcYc8)
+
+| By                         | Quotation                                                                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Bertrand Russell           | Science may set limits to knowledge, but should not set limits to imagination.                                                       |
+| George Bernard Shaw        | Science never solves a problem without creating ten more.                                                                            |
+| Isaac Asimov               | The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.                           |
+| Sir William Bragg          | The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.                    |
+| Herbert Hoover             | New discoveries in science will continue to create a thousand new frontiers for those who still would adventure.                     |
+| Lewis Mumford              | However far modern science and techniques have fallen short of their inherent possibilities, they have taught mankind at least one lesson; nothing is impossible.                                           |
+| Marie Curie                | I am among those who think that science has great beauty. A scientist in his laboratory is not only a technician: he is also a child placed before natural phenomena which impress him like a fairy tale.   |
+
 
 
 
