@@ -264,6 +264,24 @@ Video is available at [YouTube](https://youtu.be/HbeXR-NIXQA)
 | Thomas Mann                | War is a cowardly escape from the problems of peace.                                                                                 |
 
 
+### Success
+
+Video is available at [YouTube](https://youtu.be/2aXKhTUrvRE)
+
+| By                         | Quotation                                                                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Henry Ford                 | Failure is simply the opportunity to begin again, this time more intelligently.                                                      |
+| Winston Churchill          | Success is walking from failure to failure with no loss of enthusiasm.                                                               |
+| Bill Cosby                 | I don’t know the key to success, but the key to failure is trying to please everybody.                                               |
+| Woody Allen                | Eighty percent of success is showing up.                                                                                             |
+| Benjamin Franklin          | Never leave that till tomorrow which you can do today.                                                                               |
+| David Allen                | You can do anything, but not everything.                                                                                             |
+| Aristotle                  | We are what we repeatedly do. Excellence then is not an act but a habit.                                                             |
+| Sven Goran Eriksson        | The greatest barrier to success is the fear of failure.                                                                              |
+| Thomas Edison              | Opportunity is missed by most people, because it is dressed in overalls and looks like work.                                         |
+
+
+
 
 
 
