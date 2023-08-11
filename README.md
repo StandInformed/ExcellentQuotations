@@ -281,6 +281,20 @@ Video is available at [YouTube](https://youtu.be/2aXKhTUrvRE)
 | Thomas Edison              | Opportunity is missed by most people, because it is dressed in overalls and looks like work.                                         |
 
 
+### Sports
+
+Video is available at [YouTube](https://youtu.be/9gDJ79S4gKo)
+
+| By                         | Quotation                                                                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Vince Lombardi             | We didn’t lose the game; we just ran out of time.                                                                                    |
+| Rodney Dangerfield         | I went to a fight last night and a hockey game broke out.                                                                            |
+| George F. Will             | Sports serve society by providing vivid examples of excellence.                                                                      |
+| Kareem Abdul-Jabbar        | You can’t win unless you learn how to lose.                                                                                          |
+| Vince Lombardi             | Winners never quit and quitters never win.                                                                                           |
+| Anthony Starr              | Sport is imposing order on what was chaos.                                                                                           |
+| Steve Garvey               | The difference between the old ballplayer and the new ballplayer is the jersey. The old ballplayer cared about the name on the front. The new ballplayer cares about the name on the back.    |
+| Nick Seitz                 | The breakfast of champions is not cereal, it’s the opposition.                                                                       |
 
 
 
