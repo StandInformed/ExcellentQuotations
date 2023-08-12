@@ -312,72 +312,53 @@ Video is available at [YouTube](https://youtu.be/pLOT6IAcYc8)
 | Marie Curie                | I am among those who think that science has great beauty. A scientist in his laboratory is not only a technician: he is also a child placed before natural phenomena which impress him like a fairy tale.   |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Miscellaneous
+
+Video is available at [YouTube](https://youtu.be/tuV89dEEReM)
+
+| By                         | Quotation                                                                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Friedrich Nietzche         | That which doesn’t kill us makes us stronger.                                                                                        |
+| Eleanor Roosevelt          | No one can make you feel inferior without your consent.                                                                              |
+| Henry Ford                 | Whether you think you can or think you can’t, you’re right.                                                                          |
+| Frank Wilczek              | If you don’t make mistakes, you’re not working on hard enough problems.                                                              |
+| Benjamin Franklin          | Early to bed and early to rise makes a man healthy, wealthy and wise.                                                                |
+| Martin Luther King, Jr.    | We must learn to live together as brothers or perish together as fools.                                                              |
+| Abdul Kalam                | As a child of God, I am greater than anything that can happen to me.                                                                 |
+| Abdul Kalam                | It means, people who are in high and responsible positions, if they go against righteousness, righteousness itself will get transformed into a destroyer.        |
+| Luke Ford                  | Everything we do affects other people.                                                                                               |
+| Poincaré                   | Doubting everything and believing everything are two equally convenient solutions, both of which stimulate thought.                  |
+| Montaigne                  | The human mind is a great worker of miracles.                                                                                        |
+| Carl Jung                  | In centuries to come, the west will produce its own form of yoga.                                                                    |
+| Richard Bach               | In order to fly at the speed of thought to any destination you choose, you have to start by believing that you have already arrived. |
+| Thomas Edison              | Just because something doesn’t do what you planned it to do doesn’t mean it’s useless.                                               |
+| Douglas Coupland           | TV and the Internet are good because they keep stupid people from spending too much time out in public.                              |
+| Alice Kahn                 | For a list of all the ways technology has failed to improve the quality of life, please press three.                                 |
+| Alexander the Great        | There is nothing impossible to him who will try.                                                                                     |
+| Mark Twain                 | Whenever you find yourself on the side of the majority, it is time to pause and reflect.                                             |
+| Albert Einstein            | Insanity: doing the same thing over and over again and expecting different results.                                                  |
+| Isaac Newton               | Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things.                                        |
+| Albert Einstein            | The only thing that interferes with my learning is my education.                                                                     |
+| Malcolm X                  | The future belongs to those who prepare for it today.                                                                                |
+| John F. Kennedy            | Those who dare to fail miserably can achieve greatly.                                                                                |
+| William Shakespeare        | It is not in the stars to hold our destiny but in ourselves.                                                                         |
+| Eleanor Roosevelt          | The future belongs to those who believe in the beauty of their dreams.                                                               |
+| Lao Tzu                    | The journey of a thousand miles begins with one step.                                                                                |
+| Nelson Mandela             | Education is the most powerful weapon which you can use to change the world.                                                         |
+| Thomas A. Edison           | Genius is one percent inspiration, ninety-nine percent perspiration.                                                                 |
+| Nelson Mandela             | It always seems impossible until it’s done.                                                                                          |
+| Albert Einstein            | Try not to become a man of success but rather to become a man of value.                                                              |
+| Mahatma Gandhi             | The weak can never forgive. Forgiveness is the attribute of the strong.                                                              |
+| Bruce Lee                  | I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.                  |
+| Benjamin Franklin          | God helps those that help themselves.                                                                                                |
+| Benjamin Franklin          | By failing to prepare, you are preparing to fail.                                                                                    |
+| Salvador Dali              | Have no fear of perfection, you’ll never reach it.                                                                                   |
+| James Baldwin              | Those who say it can’t be done are usually interrupted by others doing it.                                                           |
+| Coco Chanel                | Simplicity is the keynote of all true elegance.                                                                                      |
+| Nikola Tesla               | I don’t care that they stole my idea… I care that they don’t have any of their own.                                                  |
+| William Shakespeare        | A fool thinks himself to be wise, but a wise man knows himself to be a fool.                                                         |
+| Warren Buffett             | Someone’s sitting in the shade today because someone planted a tree a long time ago.                                                 |
+| Bill Clinton               | People are more impressed by the power of our example rather than the example of our power.                                          |
 
 
 
